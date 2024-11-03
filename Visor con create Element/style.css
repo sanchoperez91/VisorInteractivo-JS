@@ -1,0 +1,23 @@
+#imgPrincipal{
+    width: 800px;
+    height: 400px;
+    margin: 40px;
+    
+}
+
+#divAlto{
+    display: flex;
+    justify-content: center; /* Opciones: flex-start, center, flex-end, space-between, space-around */
+    align-items: center;
+
+}
+
+#divBajo{
+    display: flex;
+    justify-content: center; /* Opciones: flex-start, center, flex-end, space-between, space-around */
+    align-items: center;
+    
+}
+#divCir1, #divCir2, #divCir3, #divCir4, #divCir5, #divCir6{
+    padding: 3px;
+}
